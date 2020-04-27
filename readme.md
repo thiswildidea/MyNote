@@ -6,6 +6,7 @@
     - [23日](#23日)
     - [24日](#24日)
     - [26日](#26日)
+    - [27日](#27日)
 
 
 ## 2020
@@ -26,6 +27,15 @@
 2. npm 上统一以smap-shsmi-loader、smap-shsmi、smap3x-shsmi 发布新包。
 
 3. AMapLoader-MapControl、AMap-shsmi-demo 工程控件和示例地图控件重命名。
+
+4. 政务网10.108.3.16 上 smi 和smidevelopcenter 部署内容更新
+
+5. smap 工程添加了smapbussinessconfig 地图业务图层组配置，便于其它业务图层扩展
+
+6. 添加了addmapcontrol 控件，并实现了smap-web 中添加地图控件测试
+
+
+#### 27日
 
 
  
