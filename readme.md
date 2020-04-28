@@ -36,6 +36,13 @@
 
 
 #### 27日
+1.  SMap中二维、三维地图图层重新配置和图层加载接口开发，实现二三维情况下加载不同的数据
+2.  SMap中LayerListControl,Zoom,Home,Compass,Fullscreen,UndergroundSwitch地图控件开发
+3.  SMap中LayerListControl,Zoom,Home,Compass,Fullscreen,UndergroundSwitch控件调用示例开发
+4.  SMap中LayerListControl,Zoom,Home,Compass,Fullscreen,UndergroundSwitch控件使用说明更新
+5.  SMAP工程中的ReadMe.md 使用说明文件更新
+6.  SMap包提交到NPM官方网站，实现更新
+
 
 
  
