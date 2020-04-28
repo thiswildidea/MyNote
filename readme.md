@@ -7,6 +7,7 @@
     - [24日](#24日)
     - [26日](#26日)
     - [27日](#27日)
+    - [28日](#28日)
 
 
 ## 2020
@@ -44,5 +45,12 @@
 6.  SMap包提交到NPM官方网站，实现更新
 
 
-
- 
+#### 28日
+1.  SMap中MeasureLine,MeasureArea,BasemapToggle地图控件开发
+2.  SMAP中MeasureLine,MeasureArea,BasemapToggle对应的ArcGIS Mapview 和SenceView 中的DistanceMeasureMentButton2D,
+    DistanceMeasureMentButton3D,AreaMeasureMentButton2D,AreaMeasureMentButton3D,BaseMapSwitchButton2D,
+    BaseMapSwitchButton3D地图控件样式开发修改，满足了控件多次加载。
+3.  SMap中MeasureLine,MeasureArea,BasemapToggle控件调用示例开发
+4.  SMap中MeasureLine,MeasureArea,BasemapToggle控件使用说明更新
+5.  SMAP工程中的ReadMe.md 使用说明文件更新
+6.  SMap包提交到NPM官方网站，实现更新
