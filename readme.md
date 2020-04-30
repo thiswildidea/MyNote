@@ -61,3 +61,10 @@
 2. MAP中添加setRotation 方法实现地图旋转功能，支持二三维
 3. 更新了地图使用说明，添加了地图样式、是否显示建筑物、地图setRotation等使用说明
 4. 更新了NPM smap-shsmi包。
+
+#### 30日
+1. 徐汇区添加了地下管线数据包括 电信、电力、燃气、给水、排水等三维管线数据，并
+开放了地下模式切换接口。
+2. SMAP中MAP添加zoomIn、zoomOut、setMapStyle、getMapStyle、setPitch、getPitch等方法。
+3. 更新了地图使用说明，添加了zoomIn、zoomOut、setMapStyle、getMapStyle、setPitch、getPitch等使用说明
+4. 更新了NPM smap-shsmi包。
