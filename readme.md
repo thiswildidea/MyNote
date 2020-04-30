@@ -8,6 +8,7 @@
     - [26日](#26日)
     - [27日](#27日)
     - [28日](#28日)
+    - [29日](#29日)
 
 
 ## 2020
@@ -54,3 +55,9 @@
 4.  SMap中MeasureLine,MeasureArea,BasemapToggle控件使用说明更新
 5.  SMAP工程中的ReadMe.md 使用说明文件更新
 6.  SMap包提交到NPM官方网站，实现更新
+
+#### 29日
+1. SMAP中MAP 添加了mapStyle、showBuildingBlock等控制属性，实现地图样式、是否显示建筑物等信息控制
+2. MAP中添加setRotation 方法实现地图旋转功能，支持二三维
+3. 更新了地图使用说明，添加了地图样式、是否显示建筑物、地图setRotation等使用说明
+4. 更新了NPM smap-shsmi包。
